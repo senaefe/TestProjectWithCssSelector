@@ -4,32 +4,181 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee7c18f9-8dac-46d1-933b-15ff85e2d6f7" name="Changes" comment="" />
+    <list default="true" id="ee7c18f9-8dac-46d1-933b-15ff85e2d6f7" name="Changes" comment="Homework 14">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/AddRecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/ClickMeButtonTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jyEe47Bx8Jyt5HKslH8D4ZCZn8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/seena/IdeaProjects/SeleniumTestWithCSS/src/main/java/com/rd/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ButtonClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClickButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClickMeButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ButtonClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AddRecordTest.addRecord.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddRecordTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddRecordTest.testAddRecord.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.testButtonClickById.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.testButtonClickByIdAndClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.testButtonClickByMultipleAttributes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.testButtonClickByNestedElements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.testButtonClickByPartialMatching.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonClickTest.testButtonClickByPosition.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ClickButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ClickButtonTest.testButtonClick.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ClickMeButtonTest.clickButton.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ClickMeButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/seena/IdeaProjects/SeleniumWD&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/seena/IdeaProjects/SeleniumTestWithCSS/src/main/java/com/rd/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.37241378&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seena\IdeaProjects\SeleniumTestWithCSS\src\main\java\com\rd\drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seena\IdeaProjects\SeleniumTestWithCSS\src\main\java\com\rd\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ClickMeButtonTest">
+    <configuration name="AddRecordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestWithCSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.AddRecordTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestWithCSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.ButtonClickTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonClickTest.testButtonClickById" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestWithCSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.ButtonClickTest" />
+      <option name="METHOD_NAME" value="testButtonClickById" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClickMeButtonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestWithCSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.ClickMeButtonTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClickMeButtonTest.clickButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestWithCSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.ClickMeButtonTest" />
+      <option name="METHOD_NAME" value="clickButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ClickMeButtonTest" />
+        <item itemvalue="TestNG.AddRecordTest" />
+        <item itemvalue="TestNG.ClickMeButtonTest.clickButton" />
+        <item itemvalue="TestNG.ButtonClickTest" />
+        <item itemvalue="TestNG.ButtonClickTest.testButtonClickById" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +189,14 @@
       <updated>1722351011695</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Homework 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 14" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
